@@ -236,11 +236,11 @@ checkGameOver() → verifica vitória/empate
 
 Tabuleiro:
 ```
-🍃 | 🥚 | 
+❌ | 🟢 | 
 -----------
-  | 🍃 | 
+  | ❌ | 
 -----------
-  |   | 🥚
+  |   | 🟢�
 ```
 
 O Minimax avalia:
@@ -320,8 +320,8 @@ git clone https://github.com/luizfxdev/tic-tac-totoro.git
 ## 🎮 Como Jogar
 
 1. Clique em **INICIAR** para começar uma nova partida
-2. Você joga com 🍃 (folhas), clique em qualquer célula vazia
-3. Totoro (🥚) responderá automaticamente
+2. Você joga com ❌ , clique em qualquer célula vazia
+3. Totoro (🟢) responderá automaticamente
 4. Tente vencer ou empatar contra a IA imbatível!
 5. Use **REINICIAR** para começar do zero
 
@@ -372,7 +372,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 - Studio Ghibli pela inspiração mágica
 - Comunidade de desenvolvedores por recursos e apoio
-- Dedico este game ao meu filho Dom, que descobriu a magia do filme Totoro e não cansa de assistir!
+- Dedico este game ao meu filho Dom, que descobriu a magia do filme Totoro e não cansa de assistir! ❤️
 - Você, por jogar e aprender! 🌳✨
 
 ---
