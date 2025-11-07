@@ -313,7 +313,7 @@ git clone https://github.com/luizfxdev/tic-tac-totoro.git
 
 3. Abra `index.html` em seu navegador
 
-**Ou acesse diretamente**: [Tic-Tac-Totoro Live Demo](#)
+
 
 ---
 
